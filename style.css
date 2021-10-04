@@ -1,0 +1,22 @@
+.banner {
+    min-height: 400px;
+    background: linear-gradient(rgba(4,9,30,0.7), rgba(4,9,30,0.7)), url("https://images.unsplash.com/photo-1628009182550-07ef395cda81?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1631&q=80");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    color: #fff;
+
+    
+}
+.banner__title {
+        text-transform: uppercase;
+}
+
+.slider img {
+    height: 400px;
+    object-fit: cover;
+}
+.nested img {
+    height: 250px;
+    object-fit: cover;
+}
